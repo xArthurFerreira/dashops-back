@@ -8,3 +8,4 @@ services:
       - PORT=5000
       - NODE_ENV=production
     restart: always
+# version 1.1.0 
