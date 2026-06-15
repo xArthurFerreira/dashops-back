@@ -1,0 +1,6 @@
+Esta pasta deve conter as seguintes evidências para a entrega:
+
+1. 1_rota_base_docker.png: Print da rota base '/' funcionando no navegador (ex: http://localhost:5000/ ou link do Codespaces) com o back-end rodando no container Docker.
+2. 2_rota_v1_docker.png: Print da rota '/v1' funcionando no navegador (ex: http://localhost:5000/v1 ou link do Codespaces) mostrando o retorno em JSON com data/hora, rodando no container Docker.
+3. 3_render_events.png: Print do painel "Events" no Render mostrando o histórico de deploys automatizados do Back-End.
+4. 4_tag_git_backend.png: Print mostrando a criação/existência da tag v1.1.0 no repositório GitHub (ex: aba de tags do GitHub ou comando `git tag` no terminal).
